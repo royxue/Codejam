@@ -115,7 +115,6 @@ for line in data_test:
 		print "Case #%d:"%(output_idx)
 		for i in answer:
 			print " ".join(i)
-		print num+1
 		idx += num+1
 
 
